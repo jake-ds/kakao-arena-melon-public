@@ -1,5 +1,5 @@
 ## kakao-arena-melon
-[https://arena.kakao.com/c/7)]
+[https://arena.kakao.com/c/7]
 
 본 repository는 kakao arena melon playlist continuation대회에 참가한 모델이다.
 이 모델은 playlist의 tag, songs, title, genre 등을 임베딩하여 예측하고자 하는 playlist와 유사한 playlist를 찾아서
